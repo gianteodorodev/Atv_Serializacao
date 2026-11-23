@@ -1,0 +1,6 @@
+﻿numeroLote;tipoLiga;pesoTotal;temperaturaFundicao;statusQualidade
+1001;Aço Inox 304;1250,50;1450,0;Aprovado
+1002;Alumínio 6061;840,25;660,5;Aprovado
+1003;Ferro Fundido;2100,00;1210,8;Em Análise
+1004;Bronze Fosforoso;615,75;1020,4;Aprovado
+1005;Aço Carbono 1045;1780,90;1510,2;Reprovado

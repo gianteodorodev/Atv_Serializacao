@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RelatorioAnalise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <amostra>
+    <idAmostra>BIO-2026-8841</idAmostra>
+    <tipoMaterial>Tecido Celular Hepático</tipoMaterial>
+    <dataColeta>2026-11-17T09:30:00</dataColeta>
+  </amostra>
+  <responsavel>
+    <nomeCientista>Dra. Helena Vasconcelos</nomeCientista>
+    <registroProfissional>CRBio 45982/04-D</registroProfissional>
+  </responsavel>
+  <resultados>
+    <componente>Proteína X (Alta concentração)</componente>
+    <componente>Enzima Y (Atividade catalítica normal)</componente>
+    <componente>Marcador Biomolecular Z-14</componente>
+    <componente>Peptídeo Regulador Alfa</componente>
+  </resultados>
+</RelatorioAnalise>
